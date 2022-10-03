@@ -1,1 +1,2 @@
 # Crypto-News-
+npm install
