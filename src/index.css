@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.newsfeed 
+{
+  background-color: red;
+}
+.currency-converter 
+{
+  background-color: green;
+  color: black;
+  height: 150px;
+}
+.app 
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#convert-button 
+{
+width: 1000px;
+color: black;
+background-color: pink;
+}
+.news-feed 
+{
+  background-color: aliceblue;
+  text-decoration: none;
+}
